@@ -201,6 +201,7 @@ It includes a command-line shell and an associated scripting language.
 * [PESecurity](https://github.com/NetSPI/PESecurity) - Module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.
 * [Powershellery](https://github.com/nullbind/Powershellery) - Powershell scripts used for general hackery.
 * [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - Toolkit for Attacking SQL Server.
+* [GrundschutzCheck](https://github.com/Abbasi26/grundschutz-check) - Read-only audit of a Windows 11 client against BSI IT-Grundschutz recommendations, with an HTML, Markdown, JSON and CSV evidence report.
 
 ## SharePoint
 
